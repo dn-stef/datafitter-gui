@@ -1,0 +1,6 @@
+wxPython
+numpy
+scipy
+matplotlib
+pandas
+openpyxl
