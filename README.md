@@ -52,6 +52,7 @@ python main.py
 - The equation for the selected function is displayed in the read-only field to the right
 - Optionally fill in initial guesses for the parameters — leaving them blank defaults to 1.0
 - Click **Fit** to run the fit and view the statistical results
+- Sample datasets (polynomial, exponential, sine) are included in the `sample_data/` folder to try the application straight away.
 
 ### Plotting
 - Use the **Data**, **Fit**, and **Residuals** tabs to configure and generate each plot
@@ -65,7 +66,12 @@ python main.py
 - Note: you must press **Fit** before saving — otherwise the stats file will be empty and the fit/residuals plots won't have any fit data in them
 
 ---
+## Screenshots
 
+![4th_fit_stats](screenshots/4th_poly_fit_stats.png)
+![4th_fit_graph](screenshots/4th_poly_fit_graph.png)
+
+---
 ## File Structure
 
 ```
