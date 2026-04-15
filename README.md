@@ -129,7 +129,7 @@ Built with Python, Tkinter, and matplotlib.
 <p align="center">
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="80" height="80"/>
   <img src="https://discuss.wxpython.org/uploads/default/original/1X/0cd954b1bce17380c4f85e370eba2946267ac712.png" alt="WxPython" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo. svg.png" alt="Matplotlib" width="80" height="80"/>
+  <img src="https://img.icons8.com/color/512/matplotlib.png" alt="Matplotlib" width="80" height="80"/>
   <img src="https://img.icons8.com/color/512/numpy.png" alt="NumPy" width="80" height="80"/>
   <img src="https://img.icons8.com/color/512/pandas.png" alt="Pandas" width="80" height="80"/>
 </p>
