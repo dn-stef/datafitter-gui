@@ -124,7 +124,7 @@ Inspired by [EddingtonGUI](https://eddington-gui.readthedocs.io/en/latest/).
 
 ---
 
-Built with Python, Tkinter, and matplotlib. 
+Built with Python, wxPython, and matplotlib. 
 
 <p align="center">
   <img src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="80" height="80"/>
